@@ -91,6 +91,9 @@
         <mxCell id="JcWjLBTuxVsyyrRUk_BK-24" value="经销" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="490" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="JcWjLBTuxVsyyrRUk_BK-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
