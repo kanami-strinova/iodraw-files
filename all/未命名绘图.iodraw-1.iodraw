@@ -91,8 +91,8 @@
         <mxCell id="JcWjLBTuxVsyyrRUk_BK-24" value="经销" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="490" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JcWjLBTuxVsyyrRUk_BK-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="600" width="60" height="30" as="geometry" />
+        <mxCell id="JcWjLBTuxVsyyrRUk_BK-26" value="&lt;div&gt;销售部 (部门名称, 地区, 电话) 主码：部门名称 外码：无&lt;/div&gt;&lt;div&gt;职工 (职工号, 姓名, 性别, 部门名称)&lt;/div&gt;&lt;div&gt;主码：职工号&lt;/div&gt;&lt;div&gt;外码：部门名称（参照 销售部 表的 部门名称）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;产品 (产品编码, 品名, 单价)&lt;/div&gt;&lt;div&gt;主码：产品编码&lt;/div&gt;&lt;div&gt;外码：无&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;经销 (部门名称, 产品编码, 数量)&lt;/div&gt;&lt;div&gt;主码：（部门名称, 产品编码）&lt;/div&gt;&lt;div&gt;外码：&lt;/div&gt;&lt;div&gt;部门名称（参照 销售部 表的 部门名称）&lt;/div&gt;&lt;div&gt;产品编码（参照 产品 表的 产品编码）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="780" width="320" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
