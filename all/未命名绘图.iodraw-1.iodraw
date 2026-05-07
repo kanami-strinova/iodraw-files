@@ -158,11 +158,14 @@
         <mxCell id="HtG0NYwc9L8uUMBmfIi8-45" value="电话" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="209" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HtG0NYwc9L8uUMBmfIi8-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="HtG0NYwc9L8uUMBmfIi8-46" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HtG0NYwc9L8uUMBmfIi8-38" target="HtG0NYwc9L8uUMBmfIi8-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="670" as="sourcePoint" />
             <mxPoint x="350" y="620" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HtG0NYwc9L8uUMBmfIi8-47" value="m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="800" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
