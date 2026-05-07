@@ -16,8 +16,14 @@
             <mxPoint x="460" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JcWjLBTuxVsyyrRUk_BK-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="570" width="120" height="80" as="geometry" />
+        <mxCell id="JcWjLBTuxVsyyrRUk_BK-5" value="地区" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JcWjLBTuxVsyyrRUk_BK-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="JcWjLBTuxVsyyrRUk_BK-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="640" as="sourcePoint" />
+            <mxPoint x="460" y="590" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
