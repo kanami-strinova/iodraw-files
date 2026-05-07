@@ -64,7 +64,10 @@
             <mxPoint x="460" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JcWjLBTuxVsyyrRUk_BK-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JcWjLBTuxVsyyrRUk_BK-17" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JcWjLBTuxVsyyrRUk_BK-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="600" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
