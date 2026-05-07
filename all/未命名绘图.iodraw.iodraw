@@ -129,9 +129,6 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T720O5ghHgKdxo2Aqybh-1" value="erDiagram&#xa;    READER ||--o{ BORROW : &quot;has&quot;&#xa;    BOOK ||--o{ BORROW : &quot;is borrowed&quot;&#xa;    &#xa;    READER {&#xa;        string reader_id PK&#xa;        string name&#xa;        string gender&#xa;        int age&#xa;        string unit&#xa;    }&#xa;    &#xa;    BOOK {&#xa;        string book_id PK&#xa;        string title&#xa;        string author&#xa;        string publisher&#xa;    }&#xa;    &#xa;    BORROW {&#xa;        string reader_id FK&#xa;        string book_id FK&#xa;        date borrow_date PK&#xa;        date return_date&#xa;    }" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="130" width="240" height="380" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
