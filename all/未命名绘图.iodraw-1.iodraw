@@ -106,8 +106,8 @@
         <mxCell id="JcWjLBTuxVsyyrRUk_BK-28" value="销售" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="440" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JcWjLBTuxVsyyrRUk_BK-30" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="245" y="440" width="80" height="80" as="geometry" />
+        <mxCell id="JcWjLBTuxVsyyrRUk_BK-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
