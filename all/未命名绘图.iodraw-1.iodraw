@@ -97,8 +97,8 @@
             <mxPoint x="460" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JcWjLBTuxVsyyrRUk_BK-28" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="570" width="80" height="80" as="geometry" />
+        <mxCell id="JcWjLBTuxVsyyrRUk_BK-28" value="销售" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="490" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
