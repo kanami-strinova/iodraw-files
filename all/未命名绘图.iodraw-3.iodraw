@@ -109,7 +109,7 @@
         <mxCell id="6xfGQL1O9mSxqX7nI121-30" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="830" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6xfGQL1O9mSxqX7nI121-31" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6xfGQL1O9mSxqX7nI121-31" value="项目名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="690" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6xfGQL1O9mSxqX7nI121-32" value="项目编号（PK）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -118,7 +118,7 @@
         <mxCell id="6xfGQL1O9mSxqX7nI121-33" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="970" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6xfGQL1O9mSxqX7nI121-34" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6xfGQL1O9mSxqX7nI121-34" value="开始日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="850" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
