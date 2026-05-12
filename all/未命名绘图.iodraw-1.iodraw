@@ -188,18 +188,6 @@
         <mxCell id="HtG0NYwc9L8uUMBmfIi8-55" value="&#xa;&lt;li&gt;&lt;p data-path-to-node=&quot;8,0,0&quot;&gt;顾客(身份证号, 姓名)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;8,1,0&quot;&gt;会员卡(号码, 等级, 积分, &lt;b data-index-in-node=&quot;16&quot; data-path-to-node=&quot;8,1,0&quot;&gt;身份证号&lt;/b&gt;) -&amp;gt; 外键：身份证号&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;8,2,0&quot;&gt;地址(&lt;b data-index-in-node=&quot;3&quot; data-path-to-node=&quot;8,2,0&quot;&gt;身份证号&lt;/b&gt;, 省, 市, 区, 街道) -&amp;gt; 外键：身份证号&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p data-path-to-node=&quot;8,3,0&quot;&gt;电话(&lt;b data-index-in-node=&quot;3&quot; data-path-to-node=&quot;8,3,0&quot;&gt;身份证号&lt;/b&gt;, 区号, 号码) -&amp;gt; 外键：身份证号&lt;/p&gt;&lt;/li&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="595" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HtG0NYwc9L8uUMBmfIi8-56" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="650" as="sourcePoint" />
-            <mxPoint x="570" y="650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HtG0NYwc9L8uUMBmfIi8-57" value="M" style="resizable=0;html=1;whiteSpace=wrap;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="HtG0NYwc9L8uUMBmfIi8-56">
-          <mxGeometry x="-1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HtG0NYwc9L8uUMBmfIi8-58" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="HtG0NYwc9L8uUMBmfIi8-56">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
