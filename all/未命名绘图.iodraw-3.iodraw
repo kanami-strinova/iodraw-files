@@ -187,8 +187,20 @@
         <mxCell id="6xfGQL1O9mSxqX7nI121-48" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="230" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6xfGQL1O9mSxqX7nI121-49" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="460" width="80" height="80" as="geometry" />
+        <mxCell id="6xfGQL1O9mSxqX7nI121-49" value="实习" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6xfGQL1O9mSxqX7nI121-50" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.617;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6xfGQL1O9mSxqX7nI121-49" target="6xfGQL1O9mSxqX7nI121-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="520" as="sourcePoint" />
+            <mxPoint x="350" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6xfGQL1O9mSxqX7nI121-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="520" as="sourcePoint" />
+            <mxPoint x="350" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
