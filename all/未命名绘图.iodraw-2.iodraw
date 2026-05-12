@@ -142,8 +142,11 @@
             <mxPoint x="350" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FDgqzcEzMKX4uP36fFJH-41" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="370" width="120" height="80" as="geometry" />
+        <mxCell id="FDgqzcEzMKX4uP36fFJH-41" value="进入时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FDgqzcEzMKX4uP36fFJH-42" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="310" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
