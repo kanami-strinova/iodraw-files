@@ -211,8 +211,14 @@
         <mxCell id="6xfGQL1O9mSxqX7nI121-58" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="460" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6xfGQL1O9mSxqX7nI121-59" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="460" width="80" height="80" as="geometry" />
+        <mxCell id="6xfGQL1O9mSxqX7nI121-59" value="负责" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6xfGQL1O9mSxqX7nI121-60" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6xfGQL1O9mSxqX7nI121-4" target="6xfGQL1O9mSxqX7nI121-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="520" as="sourcePoint" />
+            <mxPoint x="350" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
