@@ -268,8 +268,14 @@
             <mxPoint x="350" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6xfGQL1O9mSxqX7nI121-73" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="460" width="80" height="80" as="geometry" />
+        <mxCell id="6xfGQL1O9mSxqX7nI121-73" value="实习生参与" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="645" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6xfGQL1O9mSxqX7nI121-74" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="520" as="sourcePoint" />
+            <mxPoint x="350" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
