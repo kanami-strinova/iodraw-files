@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b9VTTplHM-QDTaAG0fRt-22" value="班级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="105" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="105" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b9VTTplHM-QDTaAG0fRt-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.45;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="b9VTTplHM-QDTaAG0fRt-15" target="b9VTTplHM-QDTaAG0fRt-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="b9VTTplHM-QDTaAG0fRt-24" value="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="580" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b9VTTplHM-QDTaAG0fRt-25" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="770" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
