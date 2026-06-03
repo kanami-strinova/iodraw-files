@@ -13,7 +13,7 @@
         <mxCell id="b9VTTplHM-QDTaAG0fRt-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="b9VTTplHM-QDTaAG0fRt-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b9VTTplHM-QDTaAG0fRt-4" value="学号（PK）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b9VTTplHM-QDTaAG0fRt-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
