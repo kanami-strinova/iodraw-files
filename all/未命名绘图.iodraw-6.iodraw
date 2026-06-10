@@ -19,7 +19,7 @@
         <mxCell id="ko82Lfb02YoCbiPwBoDF-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ko82Lfb02YoCbiPwBoDF-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ko82Lfb02YoCbiPwBoDF-6" value="课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ko82Lfb02YoCbiPwBoDF-7" value="选课" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -173,6 +173,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ko82Lfb02YoCbiPwBoDF-48" value="" style="endArrow=none;html=1;rounded=0;entryX=0.383;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ko82Lfb02YoCbiPwBoDF-16" target="ko82Lfb02YoCbiPwBoDF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="510" as="sourcePoint" />
+            <mxPoint x="490" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ko82Lfb02YoCbiPwBoDF-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ko82Lfb02YoCbiPwBoDF-7" target="ko82Lfb02YoCbiPwBoDF-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="510" as="sourcePoint" />
             <mxPoint x="490" y="460" as="targetPoint" />
