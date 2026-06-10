@@ -13,7 +13,7 @@
         <mxCell id="ko82Lfb02YoCbiPwBoDF-3" value="选课成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ko82Lfb02YoCbiPwBoDF-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ko82Lfb02YoCbiPwBoDF-4" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ko82Lfb02YoCbiPwBoDF-5" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
         <mxCell id="ko82Lfb02YoCbiPwBoDF-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="460" width="95" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ko82Lfb02YoCbiPwBoDF-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ko82Lfb02YoCbiPwBoDF-12" value="登录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="450" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ko82Lfb02YoCbiPwBoDF-13" value="班级编号（PK）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
